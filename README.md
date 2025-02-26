@@ -19,4 +19,4 @@
 
 📈 **GitHub İstatistiklerim:**  
 ![selll3's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=selll3&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
-https://github.com/selll3/selll/blob/main/selll3/.github/workflows/snake.svg
+

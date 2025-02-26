@@ -12,7 +12,7 @@
 </a>
 </p>
 
-📧 **İletişim:** yukselselinay@hotmail.com  
+📧  yukselselinay@hotmail.com  
 
 <p align="right">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWpnZDE1a3Q2YWVkY2NyNmpycHNyaW55bXYybDF2MHQzcWMwMHVnYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif" width="150"/>

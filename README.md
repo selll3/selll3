@@ -13,7 +13,10 @@
   <img src="https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/-MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+
 </p>
 
 📈 **GitHub İstatistiklerim:**  
 ![selll3's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=selll3&theme=blueberry&show_icons=true&hide_border=true&layout=compact)
+https://github.com/selll3/selll/blob/main/selll3/.github/workflows/snake.svg

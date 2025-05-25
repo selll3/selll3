@@ -3,7 +3,7 @@
 <h3 align="center">Yazılım Mühendisi</h3>
 
 🌍 **Hakkımda**  
-- ⚡ .NET ve React ile projeler üretiyorum.
+- ⚡ .NET ve Python ile projeler üretiyorum.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
